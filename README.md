@@ -30,6 +30,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
 
 ![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
+<img width="1535" height="862" alt="image" src="https://github.com/user-attachments/assets/fa88efbc-8588-4592-a1a9-1fa9f8b5af01" />
+
 
 7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
 
@@ -42,6 +44,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+<img width="1535" height="860" alt="image" src="https://github.com/user-attachments/assets/01eb9e7d-bfd8-449f-ad1e-85faf74b13c1" />
 
 
 ## RESULT
